@@ -157,7 +157,7 @@ def generate2Ddataset(dataset_str):
     
     # dataset 8: UCSD Map 2019-10-22-08-44-02
     elif dataset_str is "UCSD_Map_2019_10_22_08_44_02":
-        UCSD_MAP = np.loadtxt("/home/kai/gpmp2/gpmp2_python/gpmp2_python/datasets/UCSD_Map_2019_10_22_08_44_02.txt", dtype=int)
+        UCSD_MAP = np.loadtxt("~/UCSD_AVL_GPMP2/gpmp2_python/gpmp2_python/datasets/UCSD_Map_2019_10_22_08_44_02.txt", dtype=int)
         dataset.rows, dataset.cols = UCSD_MAP.shape
         dataset.origin_x, dataset.origin_y = 0, 0
         dataset.cell_size = 1
