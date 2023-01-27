@@ -3,6 +3,10 @@ GPMP2
 
 This library is an implementation of GPMP2 (Gaussian Process Motion Planner 2) algorithm described in [Motion Planning as Probabilistic Inference using Gaussian Processes and Factor Graphs](http://www.cc.gatech.edu/~bboots3/files/GPMP2.pdf) (RSS 2016). The core library is developed in C++ language with an optional Python 2.7 toolbox. GPMP2 was started at the Georgia Tech Robot Learning Lab, see [THANKS](THANKS.md) for contributors.
 
+Results with UCSD Map
+------
+![](./results/UCSD_GPMP2.gif)
+
 
 Prerequisites
 ------
