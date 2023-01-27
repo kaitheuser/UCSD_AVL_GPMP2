@@ -5,7 +5,7 @@ This library is an implementation of GPMP2 (Gaussian Process Motion Planner 2) a
 
 Results with UCSD Map
 ------
-<img src="./results/UCSD_GPMP2.gif" align="center" height="293" width="250" ></a>
+<img src="./results/UCSD_GPMP2.gif" align="center" height="586" width="500" ></a>
 
 
 Prerequisites
